@@ -217,3 +217,97 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+h2 {
+    margin-top: 15px;
+}
+
+button {
+    background: white;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 15px;
+    width: 125px;
+    font-weight: 700;
+}
+
+.about-cta {
+    width: 100%;
+    display: inline-flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px dashed black;
+    font-weight: 600;
+}
+
+.plan-working {
+    width: 100%;
+}
+
+.strategy {
+    width: 49%;
+    display: inline-flex;
+    flex-flow: row wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 10px;
+    border-bottom: 1px dashed black;
+    font-weight: 600;
+}
+
+.how-we-work {
+    width: 49%;
+    display: inline-flex;
+    flex-flow: row wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 10px;
+    border-bottom: 1px dashed black;
+    font-weight: 600;
+}
+
+.office-collaboration {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.places-we-work {
+    width: 48%;
+    display: inline-flex;
+    flex-flow: row wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 10px;
+    border-bottom: 1px dashed black;
+    font-weight: 600;
+}
+
+.collaboration {
+    width: 48%;
+    display: inline-flex;
+    flex-flow: row wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 10px;
+    border-bottom: 1px dashed black;
+    font-weight: 600;
+}
+
+.bottom-cta {
+    width: 100%;
+    margin-top: 20px;
+    padding: 20px;
+    font-weight: 600;
+}
+
+footer {
+    width: 100%;
+    margin-top: 20px;
+}
